@@ -2,7 +2,7 @@
 
 This repo is my attempt in trying to predict NBA games with Python and Machine Learning. Based on my own scraped data from the Basketball Reference website.
 
-See also my [scraping NBA stats repository](https://github.com/thijswillemmoens/scraping_nba_stats).
+See also my [scraping NBA stats repository](https://github.com/thijswillemmoens/scraping_nba_stats)
 
 
 ## Some info
